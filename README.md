@@ -1,8 +1,6 @@
 <!-- Profile README for github.com/msc2024T -->
 
-<p align="center">
-  <img src="assets/banner.png" alt="Mohammad Sepahi — Frontend-focused Full-Stack Developer" width="100%" />
-</p>
+
 
 <h1 align="center">Hi, I'm Mohammad 👋</h1>
 <p align="center">
